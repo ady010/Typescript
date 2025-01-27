@@ -1,0 +1,15 @@
+
+tsc --init
+tsc --watch
+
+basic types
+primptive types (numbers, types , boolean)
+
+let arr: number[] = [1,2,3,4, "adit"] = we can define specific array
+
+tuple
+let arr: [string, number] = ["adit", 1]
+let arr: [number, string] = [1,"adit"]
+
+enumrations
+
