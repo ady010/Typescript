@@ -13,3 +13,33 @@ let arr: [number, string] = [1,"adit"]
 
 enumrations
 
+any-We can add any types of values
+unknown
+void-Types in function
+null
+undefined
+never-it never logs 
+
+
+Type Interface-
+Understanding type Interface
+Type annotations
+
+Interfaces and type aliases
+defining Interfaces
+Using Interfaces to define object shapes
+extending Interfaces
+
+type aliases
+intersection types
+
+Classes and objects 
+Class definition
+Constructors
+Access modifiers (public, private, protected)
+Randomly properties
+Optimal properties
+Parameter properties
+Getters and Setters
+Static members
+Abstract classes and method
